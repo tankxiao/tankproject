@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListNamedObjectResults>
+  <CurrentTime>Fri, 31 Aug 2012 07:16:17 GMT</CurrentTime>
+  <ObjectList>
+    <NamedObject type='directory' deleted='false'>
+      <id>/sync/1/Image8-30-4</id>
+      <versionId>1346394174</versionId>
+      <fullpath>/sync/1/Image8-30-4</fullpath>
+      <VersionList>
+        <Version deleted='false' type='baseline' format='bindiff'>
+          <versionId>1346394174</versionId>
+          <size>0</size>
+          <stime>Fri, 31 Aug 2012 06:22:54 GMT</stime>
+          <mtime>Fri, 31 Aug 2012 06:08:36 GMT</mtime>
+          <ctime>Fri, 31 Aug 2012 06:22:54 GMT</ctime>
+          <objectId>d1c0de4449524543544f52595f48415348d1c0de</objectId>
+          <objectCredential>atKffSbhUIMVPZEhFgC1hLid4bUu+g==</objectCredential>
+          <monotonicOrdinal>2</monotonicOrdinal>
+        </Version>
+      </VersionList>
+    </NamedObject>
+    <NamedObject type='file' deleted='false'>
+      <id>/sync/1/Image8-30-4/8-301.jpg</id>
+      <versionId>1346394195</versionId>
+      <fullpath>/sync/1/Image8-30-4/8-301.jpg</fullpath>
+      <VersionList>
+        <Version deleted='false' type='baseline' format='vbi'>
+          <versionId>1346394195</versionId>
+          <size>775702</size>
+          <stime>Fri, 31 Aug 2012 06:23:15 GMT</stime>
+          <mtime>Tue, 14 Jul 2009 04:52:25 GMT</mtime>
+          <ctime>Fri, 31 Aug 2012 06:22:58 GMT</ctime>
+          <fileAttributes />
+          <objectId>8bb8d191529ab4fa7090e1085991198d60e8b0d9</objectId>
+          <objectCredential>eBTlvqqNi0OD9Z7znx0ntcKHt25juZvs</objectCredential>
+          <monotonicOrdinal>5</monotonicOrdinal>
+        </Version>
+      </VersionList>
+    </NamedObject>
+    <NamedObject type='file' deleted='false'>
+      <id>/sync/1/Image8-30-4/8-302.jpg</id>
+      <versionId>1346394187</versionId>
+      <fullpath>/sync/1/Image8-30-4/8-302.jpg</fullpath>
+      <VersionList>
+        <Version deleted='false' type='baseline' format='vbi'>
+          <versionId>1346394187</versionId>
+          <size>595284</size>
+          <stime>Fri, 31 Aug 2012 06:23:07 GMT</stime>
+          <mtime>Tue, 14 Jul 2009 04:52:25 GMT</mtime>
+          <ctime>Fri, 31 Aug 2012 06:22:58 GMT</ctime>
+          <fileAttributes />
+          <objectId>19ab3452bed2e0dccb7c9001accb334ae045ebfd</objectId>
+          <objectCredential>IMtXrc4HYGJsKxY8QDgVQuDENStsTNlE</objectCredential>
+          <monotonicOrdinal>4</monotonicOrdinal>
+        </Version>
+      </VersionList>
+    </NamedObject>
+    <NamedObject type='directory' deleted='false'>
+      <id>/sync/1/doc8-30-3-4</id>
+      <versionId>1346394172</versionId>
+      <fullpath>/sync/1/doc8-30-3-4</fullpath>
+      <VersionList>
+        <Version deleted='false' type='baseline' format='bindiff'>
+          <versionId>1346394172</versionId>
+          <size>0</size>
+          <stime>Fri, 31 Aug 2012 06:22:52 GMT</stime>
+          <mtime>Thu, 30 Aug 2012 10:23:25 GMT</mtime>
+          <ctime>Fri, 31 Aug 2012 06:22:52 GMT</ctime>
+          <objectId>d1c0de4449524543544f52595f48415348d1c0de</objectId>
+          <objectCredential>atKffSbhUIMVPZEhFgC1hLid4bUu+g==</objectCredential>
+          <monotonicOrdinal>1</monotonicOrdinal>
+        </Version>
+      </VersionList>
+    </NamedObject>
+    <NamedObject type='file' deleted='false'>
+      <id>/sync/1/doc8-30-3-4/8-301-4.doc</id>
+      <versionId>1346394210</versionId>
+      <fullpath>/sync/1/doc8-30-3-4/8-301-4.doc</fullpath>
+      <VersionList>
+        <Version deleted='false' type='baseline' format='vbi'>
+          <versionId>1346394210</versionId>
+          <size>10713600</size>
+          <stime>Fri, 31 Aug 2012 06:23:30 GMT</stime>
+          <mtime>Thu, 30 Aug 2012 10:23:25 GMT</mtime>
+          <ctime>Fri, 31 Aug 2012 06:22:58 GMT</ctime>
+          <fileAttributes />
+          <objectId>a4a37fd7b55d642561a6a81f9d0954f57c38b02f</objectId>
+          <objectCredential>Qn1K+7qwc5oDgvnkYK1v3yQpP1Jssl8HIg==</objectCredential>
+          <monotonicOrdinal>6</monotonicOrdinal>
+        </Version>
+      </VersionList>
+    </NamedObject>
+    <NamedObject type='file' deleted='false'>
+      <id>/sync/1/doc8-30-3-4/8-302-4.docx</id>
+      <versionId>1346394180</versionId>
+      <fullpath>/sync/1/doc8-30-3-4/8-302-4.docx</fullpath>
+      <VersionList>
+        <Version deleted='false' type='baseline' format='vbi'>
+          <versionId>1346394180</versionId>
+          <size>38674</size>
+          <stime>Fri, 31 Aug 2012 06:23:00 GMT</stime>
+          <mtime>Thu, 30 Aug 2012 10:22:57 GMT</mtime>
+          <ctime>Fri, 31 Aug 2012 06:22:57 GMT</ctime>
+          <fileAttributes />
+          <objectId>ec8ce07b09c88831f4b6fc22817e8b6b696f6ebe</objectId>
+          <objectCredential>wXe94pHoGSzIa4PO2W1Bi/qEYG4o3Quj</objectCredential>
+          <monotonicOrdinal>3</monotonicOrdinal>
+        </Version>
+      </VersionList>
+    </NamedObject>
+  </ObjectList>
+  <IsTruncated>false</IsTruncated>
+  <NextMonotonicOrdinal>7</NextMonotonicOrdinal>
+</ListNamedObjectResults>
